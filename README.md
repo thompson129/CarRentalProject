@@ -1,3 +1,3 @@
 # CarRentalProject
 
-## Php project at University of Information Technology
+# Php project at University of Information Technology
